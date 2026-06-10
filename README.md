@@ -1,6 +1,6 @@
 # QA Testing Portfolio
 
-This repository contains practical QA testing work, including manual test cases, bug reports, API testing notes, exploratory testing sessions, and open-source contribution evidence.
+This repo contains my collection of practical QA testing work, including manual test cases, bug reports, API testing notes, exploratory testing sessions, and open-source contribution evidence.
 
 ## Focus Areas
 
